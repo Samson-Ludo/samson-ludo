@@ -6,20 +6,6 @@ sections:
     section_id: hero
     component: HeroBlock
     content: Your search for a top-notch frontend engineer just got terminated!
-  - view_all_text: View All
-    num_projects_displayed: 5
-    section_id: latest-projects
-    view_all_url: portfolio/index.html
-    subtitle: Browse my projects and see a glimpse of what I can do for you.
-    title: Recent Work
-    type: portfolioblock
-    layout_style: mosaic
-    component: PortfolioBlock
-  - type: contactblock
-    title: Hit me up!
-    section_id: contact
-    component: ContactBlock
-    subtitle: I'm ready for your next project.
   - type: contentblock
     component: ContentBlock
     title: Who am I?
@@ -36,6 +22,20 @@ sections:
     actions:
       - label: Know me more!
         url: /about
+  - view_all_text: View All
+    num_projects_displayed: 5
+    section_id: latest-projects
+    view_all_url: portfolio/index.html
+    subtitle: Browse my projects and see a glimpse of what I can do for you.
+    title: Recent Work
+    type: portfolioblock
+    layout_style: mosaic
+    component: PortfolioBlock
+  - type: contactblock
+    title: Hit me up!
+    section_id: contact
+    component: ContactBlock
+    subtitle: I'm ready for your next project.
 menus:
   main:
     title: Home

@@ -14,7 +14,7 @@ sections:
     content: >-
       I'm **Samson Okaludo,** a front-end engineer with several years of
       experience building websites and web apps. I interned at a non-profit,
-      Loss of Generality where he worked with world class professors from Canada
+      Loss of Generality where I worked with world class professors from Canada
       and the US to develop online educational modules in Math and Physics using
       the Wolfram Language. I'm a graduate of Eduonix E-Degree program in
       Full-stack JavaScript Development and a freeCodeCamper.

@@ -5,18 +5,18 @@ sections:
     title: 'Hello, I''m Samson Ludo!'
     section_id: hero
     component: HeroBlock
-    content: Your search for a top-notch frontend engineer just got terminated!
+    content: Congratulations! Your search for a top-notch frontend engineer just ended.
   - type: contentblock
     component: ContentBlock
     title: Who am I?
     section_id: about
     subtitle: ''
     content: >-
-      **Samson Okaludo** is a front-end engineer with several years of
-      experience building websites and web apps. He interned at a non-profit,
+      I'm **Samson Okaludo,** a front-end engineer with several years of
+      experience building websites and web apps. I interned at a non-profit,
       Loss of Generality where he worked with world class professors from Canada
       and the US to develop online educational modules in Math and Physics using
-      the Wolfram Langauge. He is a graduate of Eduonix E-Degree program in
+      the Wolfram Language. I'm a graduate of Eduonix E-Degree program in
       Full-stack JavaScript Development and a freeCodeCamper.
     image: /images/samson-dp.jpg
     actions:

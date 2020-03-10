@@ -1,18 +1,23 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+title: About Me
+subtitle: ''
+img_path: /images/samson-dp2.jpg
 menus:
   main:
     title: About
     weight: 4
 template: page
 ---
+**Samson Okaludo** is a front-end engineer with several years of experience building websites and web apps. He interned at a non-profit, Loss of Generality where he worked with world class professors from Canada and the US to develop online educational modules in Math and Physics using the Wolfram Language. He is a graduate of Eduonix E-Degree program in Full-stack JavaScript Development and a freeCodeCamper.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+<!--StartFragment-->
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+My main skills include:
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Front-end Development with HTML5, CSS3, Bootstrap, Tailwind CSS, MaterialUI || API Consumption with React, Gatsby, GraphQL, PostMan, Node || TDD with Mocha, Chai, Cypress.io || Serverless Backend Development with Firebase, Node, Express || Content Management with NetlifyCMS, WordPress || Version Control with Git, GitHub || CI/CD with Netlify, GitHub || Mathematical Programming with the Wolfram Language, Wolfram Cloud
 
-*Thank You for reading!*
+<!--EndFragment-->
+
+You can learn how I got into tech in [this article](#). 
+
+*Thank You!*

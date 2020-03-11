@@ -10,4 +10,4 @@ The first version of my personal single-page portfolio site that gives a brief i
 
 > **TECH STACK**: HTML5, CSS3, Bootstrap, Vanilla JavaScript, jQuery, Netlify
 
-You may visit the [live site](https://samsonludo.netlify.com/) or see the [code on GitHub](https://github.com/Samson-Ludo/samsonludo).
+You may visit the [live site](https://ludosam.netlify.com/) or see the [code on GitHub](https://github.com/Samson-Ludo/samsonludo).

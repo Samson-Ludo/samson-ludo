@@ -5,7 +5,7 @@ sections:
     title: Hello, I'm Samson Ludo!
     section_id: hero
     component: HeroBlock
-    content: Congratulations! Your search for a top-notch frontend engineer just ended.
+    content: Congratulations! Your search for a top-notch software developer just ended.
   - type: contentblock
     component: ContentBlock
     title: Who am I?

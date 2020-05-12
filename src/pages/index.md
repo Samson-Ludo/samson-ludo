@@ -28,7 +28,7 @@ sections:
     subtitle: Browse my projects and see a glimpse of what I can do for you.
     title: Recent Work
     type: portfolioblock
-    layout_style: mosaic
+    layout_style: tiles
     component: PortfolioBlock
   - type: contactblock
     title: Hit me up!

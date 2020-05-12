@@ -14,7 +14,7 @@ sections:
     content: I'm **Samson Okaludo,**  a software developer with several years of
       experience building websites and web applications for eCommerce business,
       financial institutions and e-learning companies and have worked with
-      professionals form 6 different countries. I'm a graduate of Eduonix
+      professionals from 6 different countries. I'm a graduate of Eduonix
       E-Degree program in Full-stack JavaScript Development and a
       freeCodeCamper.
     image: ""

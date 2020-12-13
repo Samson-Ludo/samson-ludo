@@ -35,6 +35,11 @@ sections:
     section_id: contact
     component: ContactBlock
     subtitle: I'm ready for your next project.
+  - type: servicesblock
+    component: ServicesBlock
+    serviceslist:
+      - content: "![img](https://i.pinimg.com/236x/c7/84/76/c784764ebe6022d9e0d4c0425f9\
+          32bab.jpg)"
 menus:
   main:
     title: Home

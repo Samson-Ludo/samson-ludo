@@ -20,7 +20,7 @@ sections:
     image: ""
     actions:
       - label: View Resume!
-        url: https://docs.google.com/document/d/1CtRflFq8Y0_cUYOJ2DsDMBCPjXvbU8mnSWmuQcgV9Sk/edit?usp=download
+        url: https://docs.google.com/document/d/e/2PACX-1vTnRm67E1wrtTMYYYGQ2oqrmOvafY-10mcgdPrglwjWZLZSXEoJu1BWIZkNVl6DKWUsxr0iS5V0kM4B/pub
   - view_all_text: View All
     num_projects_displayed: 5
     section_id: latest-projects

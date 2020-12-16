@@ -1,5 +1,5 @@
 ---
-title: Abby Chat bot (AB Bank Rwanda's AI Chat bot)
+title: Abby Chat bot (AB Bank Rwanda AI Chat bot)
 date: 2020-12-16T03:13:28.201Z
 thumb_img_path: /images/screenshot-115-.png
 template: project
